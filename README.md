@@ -1,11 +1,16 @@
 # CpG Islands prediction using Hidden Markov Model:
 
-Sequence Files: "training.txt" is the input genomic sequence. The whole sequence
+###Input and Output Files Format:
+
+
+#####Sequence Files: 
+"training.txt" is the input genomic sequence. The whole sequence
 is divided in multiple lines and such format is known as multi-fasta.  Note that
 the length of the complete sequence for the given training file should be 85000.
 A similar test file (testing.txt) is given.
 
-FILE cpg_island_training.txt format: A separate file denoting the cpg islands in the training sequence where:
+#####FILE cpg_island_training.txt format: 
+A separate file denoting the cpg islands in the training sequence where:
 1. Each line of this file denotes a cpg island in the above sequence.  
 2. Consider the following.  347 584. It denotes that the cpg island starts
 from position 347 and ends at position 584 (584 included).  
