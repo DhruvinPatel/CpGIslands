@@ -1,7 +1,7 @@
 # CpG Islands prediction using Hidden Markov Model:
 
 ###TASK: 
-To generate a similar cpg_island file for the test data using your learned model. More details about the problem can be found on this link: http://www.cse.iitd.ernet.in/~parags/teaching/col776/assignments/ass2/ass2-b.pdf
+To predict CpG Islands in the given genomic sequence using learned model modelled as HMM. More details about the problem can be found on this link: http://www.cse.iitd.ernet.in/~parags/teaching/col776/assignments/ass2/ass2-b.pdf
 
 
 
