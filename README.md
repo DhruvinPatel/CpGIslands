@@ -24,4 +24,4 @@ from position 347 and ends at position 584 (584 included).
 1. Given a training data file and the corresponding file denoting cpg islands in the sequence, it learns the HMM model.
 
 ###HOW TO RUN:
-python cpg.py
+$ python cpg.py
